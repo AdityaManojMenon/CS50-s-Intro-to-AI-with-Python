@@ -4,3 +4,5 @@ Projects included in CS50’s Introduction to Artificial Intelligence with Pytho
 [Degrees](https://github.com/AdityaManojMenon/CS50-s-Intro-to-AI-with-Python/tree/main/Degrees) - A program that determines how many “degrees of separation” apart two actors are.
 
 [Knights](https://github.com/AdityaManojMenon/CS50-s-Intro-to-AI-with-Python/tree/main/Knights) - A program to solve logic puzzles
+
+Tic-Tac-Toe:Using Minimax, implementing an AI to play Tic-Tac-Toe optimally
