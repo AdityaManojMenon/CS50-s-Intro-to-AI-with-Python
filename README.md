@@ -9,4 +9,4 @@ Projects included in CS50’s Introduction to Artificial Intelligence with Pytho
 
 [Minesweeper](https://github.com/AdityaManojMenon/CS50-s-Intro-to-AI-with-Python/tree/main/Minesweeper) - An AI agent capable of gathering information about the Minesweeper board and selecting cells that are determined to be safe. This knowledge-based AI makes decisions by evaluating its knowledge base and drawing inferences accordingly.
 
-[PagerRank] - This project implements both  approaches for calculating PageRank – calculating both by sampling pages from a Markov Chain random surfer and by iteratively applying the PageRank formula.
+[PagerRank](https://github.com/AdityaManojMenon/CS50-s-Intro-to-AI-with-Python/tree/main/PageRank) - This project implements both  approaches for calculating PageRank – calculating both by sampling pages from a Markov Chain random surfer and by iteratively applying the PageRank formula.
